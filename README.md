@@ -6,15 +6,15 @@ vue 多页应用
 
 原地址: https://juejin.im/post/5a8e3f00f265da4e747fc700#heading-11  
 
-项目中已开启 gzip, 注意 package.json 中依赖
+项目中已开启 gzip, 注意 package.json 中依赖  
+项目使用的 vue 及 cli 版本均为 2.x, webpack 版本为 3.x，注意某些报错可能是版本不匹配导致
 
 ## Build Setup
 
 ``` bash
-# install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8081
 npm run dev
 
 # build for production with minification
